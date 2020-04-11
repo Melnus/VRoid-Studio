@@ -1,1 +1,2 @@
 # VRoid-Studio
+.vroid files
